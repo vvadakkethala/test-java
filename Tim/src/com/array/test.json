@@ -1,0 +1,78 @@
+{
+	"tpaName": "TPA Inc.",
+	"effectiveDate": "11/10/2017",
+	"signedDate": "11/10/2017",
+	"parentCompany": "TPA Parent Company 1",
+	"yearsInBusiness": "4 - 10 years",
+	"yearsInOklahoma": "0 - 3 years",
+	"primaryContact": {
+		"firstName": "John",
+		"middleName": "M",
+		"lastName": "Doe",
+		"title": "CEO",
+		"contact": {
+			"email": "john@doe.com",
+			"phoneNumber": "4053109158"
+		}
+	},
+	"sameAuthRepFlag": false,
+	"authorizedRepresentative": {
+		"firstName": "Mark",
+		"middleName": "Little",
+		"lastName": "Johnson",
+		"title": "President",
+		"contact": {
+			"email": "mark@johnson.com",
+			"phoneNumber": "4053109159"
+		}
+	},
+	"homeOfficeContact": {
+		"email": "mark@johnson.com",
+		"phoneNumber": "4053109159"
+	},
+	"homeOfficeAddress": {
+		"addressLine1": "2402 Stoney Brook",
+		"addressLine2": "",
+		"city": "Moore",
+		"state": "OK",
+		"zip": "74072-0004"
+	},
+	"sameOklahomaOfficeFlag": false,
+	"oklahomaOfficeContact": {
+		"email": "mark@johnson.com",
+		"phoneNumber": "4053109195"
+	},
+	"oklahomaOfficeAddress": {
+		"addressLine1": "2403 Stoney Brook",
+		"addressLine2": "",
+		"city": "Moore",
+		"state": "OK",
+		"zip": "74072-1234"
+	},
+	"documents": [
+		"6faaeac5-5252-4a0e-bc67-5b42ae80098c",
+		"7faaeac5-5252-4a0e-bc67-5b42ae80098d"
+	],
+	"externalLinks": [
+		{
+			"category": "TPA_financial_statements",
+			"externalLink": "http://doc1.pdf"
+		},
+		{
+			"category": "TPA_claims_adjusters",
+			"externalLink": "http://doc1.pdf"
+		},
+		{
+			"category": "TPA_errors_and_omissions",
+			"externalLink": "http://doc1.pdf"
+		},
+		{
+			"category": "TPA_fidelitybond_or_crimepolicy",
+			"externalLink": "http://doc1.pdf"
+		},
+		{
+			"category": "TPA_services_description",
+			"externalLink": "http://doc1.pdf"
+		}
+	]
+}
