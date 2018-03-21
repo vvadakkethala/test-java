@@ -4,6 +4,8 @@ public class Basic {
 
 	public static void displayHighScorePosition(String playerName, int position) {
 		System.out.println(playerName + " managed to get into position " + position + " in the high score table");
+		
+		System.out.println("just testing");
 	}
 
 	public static int caclulateHighScorePosition(int playerScore) {
