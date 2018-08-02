@@ -8,7 +8,6 @@ public class Main {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("please enter the number");
 		X x = new X(scanner.nextInt());
-		x.timesTable();
+		x.x();
 	}
-
 }
